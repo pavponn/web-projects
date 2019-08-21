@@ -10,5 +10,7 @@ Front-end was developed using JavaScript, AJAX, Vue.js, Apache Templates and CSS
 ## Test
 Tested manually in different browsers: Google Chrome, Safari, Yandex.Browser, Firefox.
 
-## License
+## Copyright
+Pavel Ponomarev, 2018 (pavponn@gmail.com)
+
 GNU General Public License v3.0
